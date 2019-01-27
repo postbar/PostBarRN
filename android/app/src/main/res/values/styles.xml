@@ -1,0 +1,11 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <!-- add code start -->
+        <!--<item name="android:windowTranslucentStatus">true</item>-->
+        <!-- add code end -->
+    </style>
+
+</resources>
