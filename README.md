@@ -41,9 +41,9 @@ react-native run-android # for debug
 cd android
 gradlew assembleRelease # to build signed apk. Note: default signature is provided .PostBarRN//key/my-release-key.keystore
 ```
-Generated jar package: `PostBarServer/target/pbserver-0.0.1-SNAPSHOT.jar`
+Generated signed apk: `./PostBar/android/app/build/outputs/apk/release/app-release.apk`
 
-### Or Download [`Release`](https://github.com/postbar/PostBarRN/releases/download/1.0/postbar1_0.apk)
+### Or Download [`postbar1_0.apk`](https://github.com/postbar/PostBarRN/releases/download/1.0/postbar1_0.apk)
 
 
 
