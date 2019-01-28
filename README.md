@@ -3,7 +3,7 @@
 
 （仿）百度贴吧，React Native FrontEnd
 
-Note: 仅仅是仿照百度贴吧功能和UI实现，*不是百度贴吧第三方客户端*
+Note: 仅仅是仿照百度贴吧功能和UI实现，**不是百度贴吧第三方客户端**
 
 ## Main Dependencies
 + `react`
