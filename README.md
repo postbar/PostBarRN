@@ -46,10 +46,19 @@ Generated signed apk: `./PostBar/android/app/build/outputs/apk/release/app-relea
 ### Or Download [`postbar1_0.apk`](https://github.com/postbar/PostBarRN/releases/download/1.0/postbar1_0.apk)
 
 
-
-
-
 ## License
 
 GPL-3.0
 
+
+## Screenshorts
+![](screenshorts/login.jpg)
+![](screenshorts/register.jpg)
+![](screenshorts/home.jpg)
+![](screenshorts/enterbar.jpg)
+![](screenshorts/my.jpg)
+![](screenshorts/bar.jpg)
+![](screenshorts/post.jpg)
+![](screenshorts/comment.jpg)
+![](screenshorts/searchbar.jpg)
+![](screenshorts/searchuser.jpg)
