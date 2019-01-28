@@ -52,13 +52,15 @@ GPL-3.0
 
 
 ## Screenshorts
-![](screenshorts/login.jpg)
-![](screenshorts/register.jpg)
-![](screenshorts/home.jpg)
-![](screenshorts/enterbar.jpg)
-![](screenshorts/my.jpg)
-![](screenshorts/bar.jpg)
-![](screenshorts/post.jpg)
-![](screenshorts/comment.jpg)
-![](screenshorts/searchbar.jpg)
-![](screenshorts/searchuser.jpg)
+<div>
+<img width="240" height="420" src="https://github.com/postbar/PostBarRN/raw/master/screenshorts/login.jpg"/>
+<img width="240" height="420" src="https://github.com/postbar/PostBarRN/raw/master/screenshorts/register.jpg"/>
+<img width="240" height="420" src="https://github.com/postbar/PostBarRN/raw/master/screenshorts/home.jpg"/>
+<img width="240" height="420" src="https://github.com/postbar/PostBarRN/raw/master/screenshorts/enterbar.jpg"/>
+<img width="240" height="420" src="https://github.com/postbar/PostBarRN/raw/master/screenshorts/my.jpg"/> 
+<img width="240" height="420" src="https://github.com/postbar/PostBarRN/raw/master/screenshorts/bar.jpg"/>
+<img width="240" height="420" src="https://github.com/postbar/PostBarRN/raw/master/screenshorts/post.jpg"/>
+<img width="240" height="420" src="https://github.com/postbar/PostBarRN/raw/master/screenshorts/comment.jpg"/>
+<img width="240" height="420" src="https://github.com/postbar/PostBarRN/raw/master/screenshorts/searchbar.jpg"/>
+<img width="240" height="420" src="https://github.com/postbar/PostBarRN/raw/master/screenshorts/searchuser.jpg"/>
+</div>
