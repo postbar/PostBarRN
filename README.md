@@ -56,7 +56,7 @@ GPL-3.0
 <img width="240" height="420" src="https://github.com/postbar/PostBarRN/raw/master/screenshorts/login.jpg"/>
 <img width="240" height="420" src="https://github.com/postbar/PostBarRN/raw/master/screenshorts/register.jpg"/>
 <img width="240" height="420" src="https://github.com/postbar/PostBarRN/raw/master/screenshorts/home.jpg"/>
-<img width="240" height="420" src="https://github.com/postbar/PostBarRN/raw/master/screenshorts/enterbar.jpg"/>
+<img width="240" height="420" src="https://github.com/postbar/PostBarRN/raw/master/screenshorts/enterbar.JPG"/>
 <img width="240" height="420" src="https://github.com/postbar/PostBarRN/raw/master/screenshorts/my.jpg"/> 
 <img width="240" height="420" src="https://github.com/postbar/PostBarRN/raw/master/screenshorts/bar.jpg"/>
 <img width="240" height="420" src="https://github.com/postbar/PostBarRN/raw/master/screenshorts/post.jpg"/>
