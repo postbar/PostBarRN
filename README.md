@@ -5,6 +5,8 @@
 
 Note: 仅仅是仿照百度贴吧功能和UI实现，**不是百度贴吧第三方客户端，仅做学习React Native用途**
 
+[配套服务端](https://github.com/postbar/PostBarServer)
+
 ## Main Dependencies
 + `react`
 + `axios`
